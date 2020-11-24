@@ -1,9 +1,14 @@
-Hi there👋
+Hi there!
 ====
-I'm Phoenix, a hobby developer that mostly codes in C#.
-Im also currently tring to learn vue and nodejs, one of my vue projects is my newly remade Github Page (https://PhoenixGames-Phoenix.github.io)
+I'm Phoenix, a hobby developer that mostly codes in javascript
+Im also currently tring to learn vue, one of my vue projects is my [newly remade Github Page](https://PhoenixGames-Phoenix.github.io)
 
-A lot of my projects are private, because they're really specific tools that aren't useful for anyone else, and i dont want people to see my unoptimized code that can only be used for the single use case it was made for
+My current main projects are both discord bots written in discord.js (yes im very good at inventing names, how could you tell?)
 
+- [phx-bot](https://github.com/PhoenixGames-Phoenix/phx-bot) for the PHX Guild Discord
+- [phoenix-bot](https://github.com/PhoenixGames-Phoenix/phoenix-bot) for my [public dev discord](https://discord.gg/gTwuaHW)
 
+They are both based on each other, but contain a more specialized feature set, depending on which bot you use.
+For Example, if you use the phx-bot you'll have commands specialized for Hypixel Skyblock related servers, like bprice or verify.
 
+Thank you for your interest in my projects!
